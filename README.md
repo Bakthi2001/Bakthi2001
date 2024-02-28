@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bakthi Gamage</h1>
 <h3 align="center">A an undergraduate student from Sri Lanka</h3>
-<img align="right" alt="coding" width="350" height="300" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
+<img align="right" alt="coding" width="350" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmYmRiZXY1cTE0cW9tc3dtcTNkMDh2ZnZ1enNiNms2NHEyaXBiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 I’m currently working on [Green Supermarket Desktop Application](https://github.com/Green-Supermart)
 

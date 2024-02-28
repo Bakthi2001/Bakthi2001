@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bakthi Gamage</h1>
 <h3 align="center">A an undergraduate student from Sri Lanka</h3>
-<img align="right" alt="coding" width="200" src="https://www.bing.com/th/id/OGC.b28f3a277d4e3ff50a49add5f4262723?pid=1.7&rurl=https%3a%2f%2fwww.alphaprogrammer.in%2fwp-content%2fuploads%2f2021%2f04%2f8306-programming-animation.gif&ehk=ldgUb%2b5AqwJF1QLdz3YgWPVGHkzGdJKnAn0g3rGxcx4%3d">
+<img align="right" alt="coding" width="200" src="https://iconscout.com/lottie-animation/female-developer-working-on-laptop-9059573">
 
 - 🔭 I’m currently working on [Green Supermarket Desktop Application](https://github.com/Green-Supermart)
 
